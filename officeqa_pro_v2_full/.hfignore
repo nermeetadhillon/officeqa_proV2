@@ -1,0 +1,6 @@
+# Exclude git internals
+.git/
+# Exclude Claude Code settings
+.claude/
+# Exclude Isaac settings
+.isaac/
